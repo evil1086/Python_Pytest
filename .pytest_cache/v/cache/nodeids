@@ -1,9 +1,0 @@
-[
-  "tests/test_Saucelabs.py::TestSaucelab::test_cart_page",
-  "tests/test_Saucelabs.py::TestSaucelab::test_checkout_page",
-  "tests/test_Saucelabs.py::TestSaucelab::test_login",
-  "tests/test_Saucelabs.py::TestSaucelab::test_order_completion",
-  "tests/test_Saucelabs.py::TestSaucelab::test_products",
-  "tests/test_Saucelabs.py::TestSaucelab::test_userinfo_page",
-  "tests/test_e2e.py::TestOne::test_e2e"
-]
