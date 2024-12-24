@@ -1,0 +1,85 @@
+2024-12-24 11:11:27,382 :INFO : test_e2e :getting all the card titles
+2024-12-24 11:11:27,401 :INFO : test_e2e :iphone X
+2024-12-24 11:11:27,410 :INFO : test_e2e :Samsung Note 8
+2024-12-24 11:11:27,418 :INFO : test_e2e :Nokia Edge
+2024-12-24 11:11:27,427 :INFO : test_e2e :Blackberry
+2024-12-24 11:11:28,104 :INFO : test_e2e :Entering country name as ind
+2024-12-24 11:25:33,237 :INFO : test_login :User landed on the login page
+2024-12-24 11:27:11,645 :INFO : test_login :User landed on the login page
+2024-12-24 11:29:49,762 :INFO : test_login :User landed on the login page
+2024-12-24 11:31:20,756 :INFO : test_login :User landed on the login page
+2024-12-24 11:33:45,861 :INFO : test_login :User landed on the login page
+2024-12-24 11:34:28,436 :INFO : test_login :User landed on the login page
+2024-12-24 11:36:35,041 :INFO : test_login :User landed on the login page
+2024-12-24 11:38:01,698 :INFO : test_login :User landed on the login page
+2024-12-24 11:38:43,750 :INFO : test_login :User landed on the login page
+2024-12-24 13:00:35,785 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 14:16:07,102 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 14:16:07,738 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:01:37,174 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 15:01:37,823 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:01:38,124 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:06:28,429 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 15:06:29,080 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:06:29,391 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:11:05,589 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 15:11:06,246 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:11:59,573 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:11:59,655 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:15:01,539 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 15:15:02,185 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:15:15,385 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:15:15,469 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:16:24,470 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 15:16:25,147 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:16:30,629 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:16:30,956 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:21:40,570 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 15:21:41,187 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:21:41,424 :INFO : TestSaucelab :Product details are: Sauce Labs Onesie
+2024-12-24 15:21:41,452 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:21:41,995 :INFO : TestSaucelab :Cart items are accurate
+2024-12-24 15:21:42,011 :INFO : TestSaucelab :here is the summary: Payment Information:
+SauceCard #31337
+Shipping Information:
+Free Pony Express Delivery!
+Price Total
+Item total: $7.99
+Tax: $0.64
+Total: $8.63
+Cancel
+Finish
+2024-12-24 15:21:42,245 :INFO : TestSaucelab :Received success message as :Thank you for your order!
+2024-12-24 16:41:56,195 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 16:58:32,764 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 16:58:33,343 :INFO : TestSaucelab :Cart items are accurate on products page
+2024-12-24 16:58:33,579 :INFO : TestSaucelab :Product details are: Sauce Labs Onesie
+2024-12-24 16:58:33,587 :INFO : TestSaucelab :Cart items are accurate on cart page
+2024-12-24 16:58:34,091 :INFO : TestSaucelab :Cart items are accurate on checkout page
+2024-12-24 16:58:34,105 :INFO : TestSaucelab :here is the summary: Payment Information:
+SauceCard #31337
+Shipping Information:
+Free Pony Express Delivery!
+Price Total
+Item total: $7.99
+Tax: $0.64
+Total: $8.63
+Cancel
+Finish
+2024-12-24 16:58:34,340 :INFO : TestSaucelab :Received success message as :Thank you for your order!
+2024-12-24 17:29:55,247 :INFO : TestSaucelab :User landed on the login page
+2024-12-24 17:29:55,867 :INFO : TestSaucelab :Cart items are accurate on products page
+2024-12-24 17:29:56,114 :INFO : TestSaucelab :Product details are: Sauce Labs Onesie
+2024-12-24 17:29:56,123 :INFO : TestSaucelab :Cart items are accurate on cart page
+2024-12-24 17:29:56,648 :INFO : TestSaucelab :Cart items are accurate on checkout page
+2024-12-24 17:29:56,664 :INFO : TestSaucelab :here is the summary: Payment Information:
+SauceCard #31337
+Shipping Information:
+Free Pony Express Delivery!
+Price Total
+Item total: $7.99
+Tax: $0.64
+Total: $8.63
+Cancel
+Finish
+2024-12-24 17:29:56,902 :INFO : TestSaucelab :Received success message as :Thank you for your order!

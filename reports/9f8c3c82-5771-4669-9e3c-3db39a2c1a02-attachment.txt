@@ -1,0 +1,2 @@
+[32mINFO    [0m TestSaucelab:test_Saucelabs.py:58 Product details are: Sauce Labs Onesie
+[32mINFO    [0m TestSaucelab:test_Saucelabs.py:62 Cart items are accurate on cart page

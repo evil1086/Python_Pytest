@@ -1,0 +1,11 @@
+[32mINFO    [0m TestSaucelab:test_Saucelabs.py:85 Cart items are accurate on checkout page
+[32mINFO    [0m TestSaucelab:test_Saucelabs.py:90 here is the summary: Payment Information:
+SauceCard #31337
+Shipping Information:
+Free Pony Express Delivery!
+Price Total
+Item total: $7.99
+Tax: $0.64
+Total: $8.63
+Cancel
+Finish

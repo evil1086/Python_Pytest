@@ -1,0 +1,5 @@
+[32mINFO    [0m WDM:logger.py:16 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:16 Current firefox version is 133.0
+[32mINFO    [0m WDM:logger.py:16 Get LATEST geckodriver version for 133.0 firefox
+[32mINFO    [0m WDM:logger.py:16 Driver [/Users/vpawar/Downloads/PythonSelFramework/.wdm/drivers/geckodriver/macos/v0.35.0/geckodriver] found in cache
+[32mINFO    [0m TestSaucelab:test_Saucelabs.py:29 User landed on the login page

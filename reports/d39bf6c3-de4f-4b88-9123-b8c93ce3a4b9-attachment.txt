@@ -1,0 +1,1 @@
+[32mINFO    [0m TestSaucelab:test_Saucelabs.py:46 Cart items are accurate on products page

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="1" failures="0" hostname="VPAWAR-MD6V" name="pytest" skipped="0" tests="1" time="0.560" timestamp="2024-12-24T15:29:48.638886"><testcase classname="" name="tests.test_HomePage" time="0.000"><error message="collection failure">tests/test_HomePage.py:11: in &lt;module&gt;
+    class TestHomePage(BaseClass):
+tests/test_HomePage.py:29: in TestHomePage
+    @pytest.fixture(params=HomePageData.getTestData("Testcase2"))
+TestData/HomePageData.py:12: in getTestData
+    book = openpyxl.load_workbook("C:\\Users\\Owner\\Documents\\PythonDemo.xlsx")
+../../.local/share/virtualenvs/postman-EgLyIvZg/lib/python3.6/site-packages/openpyxl/reader/excel.py:347: in load_workbook
+    data_only, keep_links, rich_text)
+../../.local/share/virtualenvs/postman-EgLyIvZg/lib/python3.6/site-packages/openpyxl/reader/excel.py:123: in __init__
+    self.archive = _validate_archive(fn)
+../../.local/share/virtualenvs/postman-EgLyIvZg/lib/python3.6/site-packages/openpyxl/reader/excel.py:95: in _validate_archive
+    archive = ZipFile(filename, 'r')
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/zipfile.py:1113: in __init__
+    self.fp = io.open(file, filemode)
+E   FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Owner\\Documents\\PythonDemo.xlsx'</error></testcase></testsuite></testsuites>

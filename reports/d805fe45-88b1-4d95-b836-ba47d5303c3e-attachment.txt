@@ -1,0 +1,4 @@
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current firefox version is 133.0
+[WDM] - Get LATEST geckodriver version for 133.0 firefox
+[WDM] - Driver [/Users/vpawar/Downloads/PythonSelFramework/.wdm/drivers/geckodriver/macos/v0.35.0/geckodriver] found in cache

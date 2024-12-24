@@ -1,0 +1,1 @@
+[32mINFO    [0m TestSaucelab:test_Saucelabs.py:98 Received success message as :Thank you for your order!
